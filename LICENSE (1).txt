@@ -1,0 +1,42 @@
+InfectedAI Open License
+
+Copyright (c) 2025 GulfOfAmerica
+
+This software ("InfectedAI") is provided under the InfectedAI Open License, which grants you the following rights and imposes the following obligations:
+
+1. **Definitions**:
+   - "Software" refers to InfectedAI, including its source code, documentation, and associated files.
+   - "Non-Commercial Use" means use of the Software for personal, educational, research, or non-profit purposes, where the Software is not used to generate revenue or as part of a commercial product or service.
+   - "Commercial Use" means any use of the Software that does not qualify as Non-Commercial Use, including but not limited to use in a business, for-profit organization, or as part of a commercial product or service.
+
+2. **Grant of License for Non-Commercial Use**:
+   - Permission is hereby granted, free of charge, to any person obtaining a copy of this Software to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software for Non-Commercial Use, subject to the following conditions:
+     - The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+     - Any derivative works must also be licensed under the InfectedAI Open License and made available to the public for Non-Commercial Use.
+
+3. **Restrictions**:
+   - You may not use the Software for Commercial Use without obtaining a separate commercial license from GulfOfAmerica.
+   - You may not remove or alter any copyright, license, or attribution notices in the Software.
+
+4. **Commercial Use**:
+   - If you wish to use the Software for Commercial Use, you must purchase a commercial license from GulfOfAmerica. Contact GulfOfAmerica at https://github.com/GulfOfAmerica for licensing inquiries.
+   - Commercial Use without a valid commercial license is strictly prohibited.
+
+5. **Warranty Disclaimer**:
+   - THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+6. **Termination**:
+   - This license will terminate automatically if you fail to comply with its terms. Upon termination, you must cease all use of the Software and destroy all copies in your possession.
+
+7. **Governing Law**:
+   - This license is governed by the laws of the United States of America.
+
+---
+
+Commercial License
+
+For Commercial Use of InfectedAI, a separate commercial license is required. Please contact GulfOfAmerica at https://github.com/GulfOfAmerica for details on obtaining a commercial license, including pricing and terms.
+
+---
+
+This license ensures that InfectedAI remains free for non-commercial use while allowing GulfOfAmerica to monetize commercial applications of the Software.
